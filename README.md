@@ -12,5 +12,5 @@ implement the bounded buffer. Do not use Semaphore or Synchronized methods to im
 the FIFO.
 
 ## Authors
-Tyler Lim
+Tyler Lim <br>
 Hillary Vo
