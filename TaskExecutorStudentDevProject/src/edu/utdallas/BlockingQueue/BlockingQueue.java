@@ -5,6 +5,7 @@ import java.util.Queue; // Import the Queue class.
 
 public class BlockingQueue<T> // BlockingQueue class with generic type T.
 {
+    // final as the queue is initialized in the constructor and will not be reassigned.
     private final Queue<T> queue = new LinkedList<T>(); // Create a new queue object with generic type T.
     private final int queue_capacity; // The capacity of the queue.
 
