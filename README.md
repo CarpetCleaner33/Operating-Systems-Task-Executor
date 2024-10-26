@@ -10,7 +10,7 @@ Blocking FIFO described in the textbook, and in class, using only Java’s Objec
 notify() in synchronized blocks.
 
 ## Information
-Environment: Visual Studio Code
+Environment: Visual Studio Code <br>
 Language: Java
 
 ## Authors
