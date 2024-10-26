@@ -11,4 +11,3 @@ notify() in synchronized blocks.
 
 ## Authors
 Tyler Lim <br>
-Hillary Vo
