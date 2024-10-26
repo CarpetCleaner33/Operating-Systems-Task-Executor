@@ -9,5 +9,9 @@ The secondary goal of the project is to implement a Fixed-Length
 Blocking FIFO described in the textbook, and in class, using only Java’s Object wait() and
 notify() in synchronized blocks.
 
+## Information
+Environment: Visual Studio Code
+Language: Java
+
 ## Authors
 Tyler Lim <br>
