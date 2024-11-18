@@ -15,4 +15,3 @@ Language: Java
 
 ## Authors
 Tyler Lim <br>
-Hillary Vo <br>
